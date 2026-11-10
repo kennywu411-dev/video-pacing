@@ -26,7 +26,7 @@
 
 ## 安装
 
-需要 Python 3.9 以上和 ffmpeg。
+需要 Python 3.10 以上和 ffmpeg。
 
 作为 skill 装到 Claude Code：
 
