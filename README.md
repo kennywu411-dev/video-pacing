@@ -1,4 +1,4 @@
-# video-pacing
+# video-pacing：短视频节奏检查
 
 [![CI](https://github.com/kennywu411-dev/video-pacing/actions/workflows/ci.yml/badge.svg)](https://github.com/kennywu411-dev/video-pacing/actions/workflows/ci.yml)
 
